@@ -14,4 +14,5 @@ Below are descriptions of each Jupyter Notebook:
 03_nullpredictions_sexindependent : generates null models corresponding to true sex-independent models
 04_nullpredictions_sexspecific : generates null models corresponding to true sex-specific models
 05_prediction_figs : generates figures visualising prediction accuracies 
-06_evaluate_model_significance : evaluates model significance using prediction accuracies from null and true models
+06_evaluate_model_significance : evaluates model significance using prediction accuracies from (sex-independent and sex-specific) null and true models
+07_featimp_evaluations : evaluates network-level and regional-level feature weights across all (sex-independent and sex-specific) models
