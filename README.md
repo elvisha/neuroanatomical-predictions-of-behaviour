@@ -1,7 +1,8 @@
 # Neuroanatomical Predictions of Behaviour
 
 
-This repository contains all of the MATLAB and Jupyter Notebook based implementation of the work described in: Dhamala E. et al. (In preparation). Intracranial volume correction differentially biases behavioral predictions across neuroanatomical features and populations. 
+This repository contains all of the MATLAB and Jupyter Notebook based implementation of the work described in: 
+Dhamala, E., Ooi, L.Q.R., Chen, J., Kong, R., Anderson, K.M., Chin, R., Yeo, B.T. and Holmes, A.J., 2022. Proportional intracranial volume correction differentially biases behavioral predictions across neuroanatomical features, sexes, and development. NeuroImage, 260, p.119485.
 
 
 Keywords: neuroimaging, intracranial volume, sex, age, predictive modelling, behaviour, cognition, neuroanatomical properties, surface area, gray matter volume, cortical thickness
